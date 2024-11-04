@@ -27,6 +27,8 @@ para trabalhar com datas
 npm i date-fns
 
 
+COMUNICAÇÃO ENTRE COMPONENTES
+
 Prop Drilling
 Quando temos MUITAS propriedades APENAS para comunicação entre componentes
 
